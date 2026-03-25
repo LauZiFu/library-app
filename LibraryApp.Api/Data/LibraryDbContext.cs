@@ -1,3 +1,4 @@
+using LibraryApp.Api.Models;
 using Microsoft.EntityFrameworkCore;
 
 public class LibraryDbContext : DbContext
