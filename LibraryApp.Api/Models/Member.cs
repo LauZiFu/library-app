@@ -1,8 +1,8 @@
-namespace LibraryApp.Api.Models;
+namespace libraryApp.Api.Models;
 
 public class Member
 {
-    public int CustomerNumber { get; set; } // PK
+    public int CustomerNumber { get; set; } //PK
     public string CustomerName { get; set; }
     public string ContactLastName { get; set; }
     public string ContactFirstName { get; set; }
