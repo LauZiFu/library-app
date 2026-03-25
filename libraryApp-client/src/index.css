@@ -1,0 +1,55 @@
+@import "/node_modules/modern-normalize/modern-normalize.css";
+
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+ul {
+  list-style-type: none;
+}
+
+fieldset {
+  border: none;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+body {
+  height: 100vh;
+}
+
+legend {
+  display: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+input,
+textarea {
+  overflow: hidden;
+}
+
+a {
+  color: black; /* Or any other desired color like #000000 or a specific name */
+  text-decoration: none; /* Optional: removes the default underline */
+}

@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/LibraryApp.api/">
+    <Project Path="LibraryApp.api/LibraryApp.Api.csproj" />
+  </Folder>
+</Solution>
