@@ -1,5 +1,7 @@
-const App = () => {
-  return <h1>Hello World!</h1>;
-};
+import BooksPage from "./pages/BooksPage";
+
+function App() {
+  return <BooksPage />;
+}
 
 export default App;

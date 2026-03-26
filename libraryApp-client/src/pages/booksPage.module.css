@@ -1,0 +1,16 @@
+.book {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    background-color: black;
+    padding: 0.5rem;
+    border-radius: 10px;
+}
+
+.bookList{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    gap: 0.5rem;
+    color: white;
+}
